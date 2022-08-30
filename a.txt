@@ -7,3 +7,6 @@
 merge 合并
 
 clone 克隆
+
+
+在github修改的信息
